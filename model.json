@@ -1,0 +1,12 @@
+{
+    "modelUrl": "http://gzwimage-upyun.test.upcdn.net/std.so",
+    "md5": "d3133b69b6c5cf3ae594a5ef1c0fdc54",
+    "iOS": {
+        "phonegap": 0.65,
+        "printgap": 0.55,
+    },
+    "android": {
+        "phonegap": 0.65,
+        "printgap": 0.55,
+    },
+}
